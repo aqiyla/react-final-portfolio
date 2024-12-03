@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Navigation() {
+export default function Navbar() {
   return (
     <nav class="navbar navbar-expand-lg bg-white">
       <div class="container-fluid">
